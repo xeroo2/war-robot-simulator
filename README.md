@@ -1,7 +1,7 @@
+# 🪖 War Robot Simulator
+
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![Project](https://img.shields.io/badge/Project-War_Robot_Simulator-red)
-
-🚀 War Robot Simulator
 
 War Robot Simulator is a turn-based robot warfare simulation built in C++.
 Robots battle each other on a 2D battlefield by moving, looking around, and firing based on their abilities and strategies.
