@@ -1,0 +1,8 @@
+10 15
+20
+5
+RoboCop R1 10 1
+Terminator T1 1 13
+BlueThunder B1 3 4
+Madbot M1 4 5
+RoboTank K1 3 6
